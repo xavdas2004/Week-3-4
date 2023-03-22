@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author xdasa
+ *
+ */
+module test {
+}
